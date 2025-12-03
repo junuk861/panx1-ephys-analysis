@@ -1,7 +1,7 @@
 # PANX1 Electrophysiology ABF Batch Plotting
 
 This repository provides Python scripts for analyzing and visualizing patch-clamp electrophysiology data recorded in the Axon Binary Format (ABF).  
-The code was developed for the processing and figure generation of PANX1 current recordings used in the manuscript submitted to *Nature Communications*.
+The code was developed for the processing and figure generation of PANX1 current recordings used in the manuscript submitted.
 
 ---
 
